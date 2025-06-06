@@ -5,7 +5,7 @@ export default function MainContent() {
 
       <ol>
         <li>i want to further my js skills</li>
-        <li>junior in cs without many projects</li>
+        <li>hello there!</li>
       </ol>
     </>
   );
