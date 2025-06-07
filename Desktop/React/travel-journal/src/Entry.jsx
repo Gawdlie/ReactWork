@@ -4,7 +4,7 @@ export default function Entry(props) {
     return(
         <>
         <section className="entry">
-                <img className="mtfuji" src={props.img.src} alt={props.img.alt} />
+                <img className="mtfuji" src={props.image.src} alt={props.image.alt} />
                 <div className="wrapper">
                         <div className="location">
                             <p>{props.country}</p>
