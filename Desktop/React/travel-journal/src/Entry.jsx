@@ -1,5 +1,6 @@
 
 export default function Entry(props) {
+
     return(
         <>
         <section className="entry">
